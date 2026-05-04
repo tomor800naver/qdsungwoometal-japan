@@ -1,0 +1,20 @@
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/qdsw-japan-hero-metal-balance.png (size: 4361877 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/qdsw-japan-hero-metal-balance_f0da1b6c.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/qdsw-japan-products-balance-weights.png (size: 2053473 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/qdsw-japan-products-balance-weights_a07004a0.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/qdsw-japan-manufacturing-equipment.png (size: 6681796 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/qdsw-japan-manufacturing-equipment_274f3082.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/qdsw-japan-quality-lab.png (size: 1892789 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/qdsw-japan-quality-lab_023cd99f.png
+
+========== Upload Summary ==========
+[SUCCESS] /home/ubuntu/webdev-static-assets/qdsw-japan-hero-metal-balance.png -> /manus-storage/qdsw-japan-hero-metal-balance_f0da1b6c.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/qdsw-japan-products-balance-weights.png -> /manus-storage/qdsw-japan-products-balance-weights_a07004a0.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/qdsw-japan-manufacturing-equipment.png -> /manus-storage/qdsw-japan-manufacturing-equipment_274f3082.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/qdsw-japan-quality-lab.png -> /manus-storage/qdsw-japan-quality-lab_023cd99f.png
+=====================================
+Total: 4, Success: 4, Failed: 0
